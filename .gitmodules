@@ -1,0 +1,4 @@
+[submodule "dilip/public"]
+	path = dilip/public
+	url = https://github.com/dilip27m/dilip27m.github.io.git
+	branch = main
